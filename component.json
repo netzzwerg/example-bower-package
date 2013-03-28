@@ -5,6 +5,9 @@
     "jquery": "#1.8.1",
     "underscore": "#1.2.1"
   },
+  "devDependencies": {
+    "jasmine": "#v1.3.1"
+  },
   "main" : "foo/",
   "readmeFilename": "README.md"
 }
